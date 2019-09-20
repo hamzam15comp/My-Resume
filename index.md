@@ -1,14 +1,17 @@
 ---
 layout: page
 title: Hamza Motiwalla
-tagline: Graduate Student at Universtiy of Colorado Boulder
+tagline: Universtiy of Colorado Boulder
 description: 
 ---
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
+[LinkedIn](www.linkedin.com/in/hamza-motiwalla) 
+[hamza.motiwalla@colorado.edu](mailto:hamza.motiwalla@colorado.edu)
 [git](https://git-scm.com).
+
+Research Interests and Goals
+I'm passionate about Operating Systems(5/10), Computer Networks(4/10) and Ethical Hacking. I aim to pursue research at the intersection of Network Security and Virtualization. I'm good at breaking stuff, but not that great at putting it back together. I have an aptitude for quickly figuring out new languages and technologies by aggressive trial and error. I'm actively seeking internship opportunities for Summer 2020 in the systems and network security domain.
+
 
 For me, the painful aspects of making a website are
 
